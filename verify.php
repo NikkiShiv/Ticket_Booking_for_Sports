@@ -17,7 +17,7 @@ $cust  = "CUST" . rand(1000, 999999);
 
 //sessions
 // $_SESSION['ORDERID'] = $order;
-
+// sadnksndknsdkasnd
 
 //conditions
 if ((!$_POST['submit'])) {
